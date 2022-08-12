@@ -18,6 +18,9 @@ textX = 850
 def show_boxes(x, y):
     score  = font.render(': ' + str(boxesValue),True, (0, 0, 255))
     Window.blit(score, (x, y))
+#Bird Class
+
+
 
 
 #Set up the Game Window
